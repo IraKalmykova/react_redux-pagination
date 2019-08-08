@@ -1,1 +1,2 @@
-- [DEMO](http://irakalmykova.github.io/react_redux-pagination)
+- [DEMO](https://irakalmykova.github.io/react_redux-pagination/)
+- [Pull request](https://github.com/IraKalmykova/react_redux-pagination/pull/1)
